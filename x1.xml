@@ -1,0 +1,41 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<!-- creating list of events  -->
+<events>
+
+	<!-- event 1  -->
+	<event>
+		<location> San Francisco, CA</location>
+		<date> May 1</date>
+		<map>image1.png</map>
+	</event>
+
+
+		<!-- event 2  -->
+		<event>
+			<location> London</location>
+			<date> May 13</date>
+			<map>image13.png</map>
+		</event>
+
+			<!-- event 3  -->
+			<event>
+				<location> Dublin</location>
+				<date> May 17</date>
+				<map>image17.png</map>
+			</event>
+</events>
+
+
+
+
+
+
+
+
+
+
